@@ -1,0 +1,21 @@
+# Generated audit reports
+Security_Audit_*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pyinstaller
+*.exe
+dist/
+build/
+*.spec
